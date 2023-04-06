@@ -31,6 +31,13 @@ Avant de pouvoir exécuter cette application, vous devez vous assurer que votre 
 * Socket.io : Permet d'avoir des discussions et des notification en temps réel
 * TypeScript : Langage de programmation orienté fonction
 
-## Test image:
+## Page pour l'utilisateur:
 
-![ok](./template/DE.png)
+* Page Menu:
+![Menu utilisateur](./template/Umenu.png.png)
+
+* Page de création ticket:
+![Création ticket](./template/Umenu.png.png)
+
+* Page Apropos:
+![Page Apropos](./template/UAbout.png.png.png)
