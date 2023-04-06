@@ -30,7 +30,7 @@ Avant de pouvoir exécuter cette application, vous devez vous assurer que votre 
 * Ionic React : Framework pour le développement d'applications mobiles hybrides
 * Socket.io : Permet d'avoir des discussions et des notification en temps réel
 * TypeScript : Langage de programmation orienté fonction
-* SessionStorage pour stocket les messages et les notifications
+* SessionStorage : Pour stocket les messages et les notifications
 ## Page pour l'utilisateur:
 
 * Menu:
