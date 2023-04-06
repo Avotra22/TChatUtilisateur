@@ -34,4 +34,4 @@ Avant de pouvoir exécuter cette application, vous devez vous assurer que votre 
 ## Page pour l'utilisateur:
 
 * Page Menu:
-![Menu utilisateur](./template/Umenu.png.png)
+![Menu utilisateur](https://github.com/Avotra22/TChatUtilisateur/blob/master/template/DE.png)
