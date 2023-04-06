@@ -34,12 +34,48 @@ Avant de pouvoir exécuter cette application, vous devez vous assurer que votre 
 ## Page pour l'utilisateur:
 
 * Menu:
+
 ![Menu utilisateur](https://github.com/Avotra22/TChatUtilisateur/blob/master/template/DE.png)
 
 * Création ticket:
+
 ![Création ticket](https://github.com/Avotra22/TChatUtilisateur/blob/master/template/Uct.png)
 
 * Discussion:
 
 ![Discussion](https://github.com/Avotra22/TChatUtilisateur/blob/master/template/Usms.png)
 ![Discussion](https://github.com/Avotra22/TChatUtilisateur/blob/master/template/Umr.png)
+
+* Apropos:
+
+![Apropos](https://github.com/Avotra22/TChatUtilisateur/blob/master/template/UAbout.png)
+
+## Page pour le service clienr:
+
+* Notification:
+
+![Notification](https://github.com/Avotra22/TChatUtilisateur/blob/master/template/NR.png)
+
+NB: Après la creation de ticket par l'utilisateur
+
+![Notification](https://github.com/Avotra22/TChatUtilisateur/blob/master/template/Notif1.png)
+
+    -Show detail : Pour voir l'information de l'utilisateur.
+    -Begin discussion : Ajouter l'utilisateur à la liste de discussion.
+
+* Detail Notification:
+
+![Notification](https://github.com/Avotra22/TChatUtilisateur/blob/master/template/Det.png)
+
+* Liste de discussion en cours:
+
+![Notification](https://github.com/Avotra22/TChatUtilisateur/blob/master/template/DE.png)
+
+* Discussion:
+
+![Discussion](https://github.com/Avotra22/TChatUtilisateur/blob/master/template/Smr.png)
+![Discussion](https://github.com/Avotra22/TChatUtilisateur/blob/master/template/Smr1.png)
+
+* Apropos:
+
+![Discussion](https://github.com/Avotra22/TChatUtilisateur/blob/master/template/SAbout.png)
