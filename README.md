@@ -35,9 +35,3 @@ Avant de pouvoir exécuter cette application, vous devez vous assurer que votre 
 
 * Page Menu:
 ![Menu utilisateur](./template/Umenu.png.png)
-
-* Page de création ticket:
-![Création ticket](./template/Umenu.png.png)
-
-* Page Apropos:
-![Page Apropos](./template/UAbout.png.png.png)
