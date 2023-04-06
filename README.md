@@ -33,5 +33,13 @@ Avant de pouvoir exécuter cette application, vous devez vous assurer que votre 
 
 ## Page pour l'utilisateur:
 
-* Page Menu:
+* Menu:
 ![Menu utilisateur](https://github.com/Avotra22/TChatUtilisateur/blob/master/template/DE.png)
+
+* Création ticket:
+![Création ticket](https://github.com/Avotra22/TChatUtilisateur/blob/master/template/Uct.png)
+
+* Discussion:
+
+![Discussion](https://github.com/Avotra22/TChatUtilisateur/blob/master/template/Usms.png)
+![Discussion](https://github.com/Avotra22/TChatUtilisateur/blob/master/template/Umr.png)
